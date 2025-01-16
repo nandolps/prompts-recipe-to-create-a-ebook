@@ -1,92 +1,49 @@
-<p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
-
-
-<p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
-
--------
-
-
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
-</p>
-
 # Projeto EBOOK Gerado por I.A.s
-
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [ChatCaixa](via Teams)
 
 ## 🧠 Prompts
 
 
-ChatGPT：
+ChatCAIXA：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+Crie 10 exemplos de título e subtítulo de um e-book sobre o tema Ensinando a Contar histórias. O objetivo do e-book é para ensinar os pais a criarem histórias para os filhos.
+
+Quero que este e-book tenha introdução, 3 capítulos e conclusão. cite títulos e complementos para estes capítulos
+
+crie uma introdução para este e-book, com base em :
+Nesta introdução, exploraremos a importância de contar histórias para as crianças, os benefícios emocionais e educativos, e como os pais podem se tornar narradores habilidosos para criar momentos mágicos com seus filhos.
+
+escreva um capitulo de um e-book com as seguintes instruções
+Este capítulo abordará técnicas para estimular a criatividade dos pais, incluindo brainstorming de ideias, uso de personagens cativantes e construção de enredos envolventes que despertem o interesse das crianças.
+
+escreva um capitulo de um e-book com as seguintes instruções
+neste capitulo  os pais aprenderão diferentes técnicas de narração, como modulação de voz, uso de gestos e expressões faciais, e como incorporar elementos visuais e sonoros para tornar as histórias mais vívidas e cativantes.
+
+escreva um capitulo de um e-book com as seguintes instruções
+Este capítulo ensinará como os pais podem adaptar experiências pessoais e momentos do dia a dia em histórias encantadoras, criando uma conexão emocional mais profunda com seus filhos e tornando cada conto único e especial.
+
+com base nos capítulos criados, faça a conclusão do e-book com as seguintes instruções
+O Legado das Histórias
+Na conclusão, refletiremos sobre o impacto duradouro de contar histórias na vida das crianças, incentivando os pais a continuar cultivando essa prática e passando adiante a tradição de criar e compartilhar histórias inesquecíveis.
 
 
-Midjourney：
+ChatGPT
 
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+Estilo Anime
+Publico alvo Crianças
+Desenhe um pai ou mãe contando histórias para seu ou seus filhos.
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Conteúdo gerado via ChatCAIXAT
+- Imagens geradas via ChatGPT
 
-## 📚 Materiais
-
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
