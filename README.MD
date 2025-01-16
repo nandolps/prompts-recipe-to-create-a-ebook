@@ -3,7 +3,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<https://github.com/nandolps/prompts-recipe-to-create-a-ebook#:~:text=now-,e%2Dbook.pdf,-Add%20files%20via>
+<a href="https://github.com/nandolps/prompts-recipe-to-create-a-ebook/blob/main/e-book.pdf">Aqui está o e-book</a>
 
 
 ## 💻 Tecnologias utilizadas no projeto
